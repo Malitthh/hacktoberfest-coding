@@ -18,8 +18,7 @@ Join us in celebrating open-source every year with Hacktoberfest! Whether you're
 2. Eclipse IDE or IntelliJ IDEA
 3. Git Version Control
 
-Refer [CONTRIBUTING.md](https://github.com/Malitthh/hacktoberfest-coding/blob/main/CONTRIBUTING.md) before sending a PR.
-
+Refer [CONTRIBUTING.md](https://github.com/Malitthh/hacktoberfest-coding/blob/master/CONTRIBUTING.md) before sending a PR.
 
 Create your profile for hacktoberfest [here](https://hacktoberfest.com/profile/).
 
@@ -32,7 +31,7 @@ for creating a new project,
 
 ### Contact
 
-Please log your concern [CONTACT.md](https://github.com/Malitthh/hacktoberfest-coding/blob/main/CONTACT.md)
+Please log your concern [CONTACT.md](https://github.com/Malitthh/hacktoberfest-coding/blob/master/CONTACT.md)
 
 ### Contributors
 <!-- <a href="https://github.com/Malitthh/hacktoberfest-coding/graphs/contributors">
