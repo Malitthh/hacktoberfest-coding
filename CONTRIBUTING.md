@@ -49,7 +49,7 @@ When you commit follow this if possible,
 
 `type : Description`
 
-`git commit -m "refactor:Login TC updated"`
+`git commit -m "tests:added a new test"`
 
 few types,
 
@@ -68,6 +68,6 @@ few types,
 `revert:` when relates to revert
 
 Reference: 
-https://www.w3schools.com/js/js_conventions.asp
+https://www.w3schools.com/java/
 
-https://playwright.dev/docs/intro
+https://dev.java/learn/getting-started/
